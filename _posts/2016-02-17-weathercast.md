@@ -1,11 +1,11 @@
 ---
 layout: inner
 position: left
-title: 'A POI-Based ML Method in Predicting Health'
+title: 'A POI-Based ML Method in Urban Health Planning'
 date: 2022-02-20 15:56:00
 categories: Research
 tags: Machine_Learning Healthy_City Geodata_Analysis
-featured_image: '/img/posts/05_bloc-jams-angular-1130x864-2x'
+featured_image: '/img/posts/05_bloc-jams-angular-1130x864-2x.png'
 project_link: 'https://www.researchgate.net/publication/364653326_A_POI-Based_Machine_Learning_Method_in_Predicting_Health'
 button_icon: 'researchgate'
 button_text: 'Visit Project'
