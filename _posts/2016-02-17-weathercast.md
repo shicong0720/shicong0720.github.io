@@ -1,7 +1,7 @@
 ---
 layout: inner
 position: left
-title: 'A POI-Based Machine Learning Method in Predicting Health'
+title: 'A POI-Based ML Method in Predicting Health'
 date: 2022-02-20 15:56:00
 categories: Research
 tags: Machine_Learning Healthy_City Geodata_Analysis
