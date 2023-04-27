@@ -1,13 +1,13 @@
 ---
 layout: inner
-position: right
-title: 'Rescue Themes'
-date: 2016-02-20 15:56:00
-categories: development design
-tags: WordPress PHP Sass
+position: left
+title: 'Architecture'
+date: 2016-6-19 15:56:00
+categories: design
+tags: Architecture Urban_Planning 
 featured_image: '/img/posts/03_rescue-themes-1130x864-2x.png'
-project_link: 'https://rescuethemes.com'
-button_text: 'Visit Rescue Themes'
-button_icon: 'wordpress'
-lead_text: 'Designed and developed all WordPress themes'
+project_link: 'https://issuu.com/caoshicong/docs/2018_shicong_cao_architecture_portf'
+button_text: 'Visit Project'
+button_icon: 'issuu'
+lead_text: "Architecture project over the years. Community service. Urban planning. 
 ---
