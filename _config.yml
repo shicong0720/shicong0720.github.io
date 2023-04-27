@@ -18,9 +18,9 @@ email: 'shicong0720@gmail.com'
 description: "I'm a data scientist and designer from Berlin. I'm interested in using data to assist decision-making. My focus is on AI and urban planning/architecture. "
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jamigibbs.github.io/phantom" # the base hostname & protocol for your site, e.g. https://example.com
-twitter_username: 'jamigibbs'
-github_username: 'jamigibbs'
-medium_username: 'blog.jamigibbs.com'
+linkedin_username: 'shicong-cao-0bb193128'
+github_username: 'shicong0720'
+issuu_username: 'caoshicong'
 
 # Build settings
 markdown: kramdown
