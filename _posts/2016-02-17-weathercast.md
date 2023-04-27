@@ -1,13 +1,13 @@
 ---
 layout: inner
 position: left
-title: 'Weathercast'
-date: 2016-02-20 15:56:00
-categories: development
-tags: JavaScript AngularJS API Sass
-featured_image: '/img/posts/02_weathercast-1130x864-2x.png'
-project_link: 'http://github.com/jamigibbs/weathercast'
-button_icon: 'github'
+title: 'A POI-Based Machine Learning Method in Predicting Health'
+date: 2022-02-20 15:56:00
+categories: Research
+tags: Machine_Learning Healthy_City Geodata_Analysis
+featured_image: '/img/posts/05_bloc-jams-angular-1130x864-2x'
+project_link: 'https://www.researchgate.net/publication/364653326_A_POI-Based_Machine_Learning_Method_in_Predicting_Health'
+button_icon: 'researchgate'
 button_text: 'Visit Project'
-lead_text: 'A simple weather forecast app for your favorite city.'
+lead_text: 'A project using machine learning method to verify healthy urban planning theory.'
 ---
