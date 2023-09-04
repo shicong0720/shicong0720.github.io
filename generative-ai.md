@@ -1,7 +1,7 @@
 ---
 layout: inner
 title: Generative vs Predictive
-permalink: /blog/generative-ai/
+permalink: /generative-ai/
 ---
 ## Markdown
 
