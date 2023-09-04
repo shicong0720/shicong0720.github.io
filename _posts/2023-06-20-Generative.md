@@ -8,6 +8,5 @@ tags: generative_ai research product
 featured_image: '/img/posts/01_architecture-1130x864-2x.png'
 project_link: '/blog/generative-ai/'
 button_text: 'post'
-button_icon: ''
 lead_text: "Comparison between generative AI and predictive AI."
 ---
