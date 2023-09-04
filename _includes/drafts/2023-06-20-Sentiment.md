@@ -1,13 +1,13 @@
 ---
 layout: inner
 position: left
-title: 'Sentiment Analysis'
+title: 'generative vs predictive'
 date: 2023-6-20 15:56:00
-categories: development
-tags: NLP Python Geodata_analysis
+categories: research
+tags: generative_ai research product
 featured_image: '/img/posts/01_architecture-1130x864-2x.png'
-project_link: 'https://issuu.com/caoshicong/docs/2018_shicong_cao_architecture_portf'
-button_text: 'Visit Project'
-button_icon: 'Github'
-lead_text: "Sentiment anaylsis for predicting residents' health."
+project_link: '/learning/generative-ai.md'
+button_text: 'post'
+button_icon: ''
+lead_text: "Comparison between generative AI and predictive AI."
 ---
