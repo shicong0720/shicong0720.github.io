@@ -1,7 +1,7 @@
 ---
 layout: inner
 position: left
-title: 'generative vs predictive'
+title: 'Generative VS Predictive'
 date: 2023-6-20 15:56:00
 categories: research
 tags: generative_ai research product
