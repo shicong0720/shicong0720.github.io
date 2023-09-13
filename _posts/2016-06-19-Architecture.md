@@ -1,6 +1,6 @@
 ---
 layout: inner
-position: left
+position: right
 title: 'Architecture'
 date: 2016-6-19 15:56:00
 categories: design
