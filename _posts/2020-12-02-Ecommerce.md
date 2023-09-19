@@ -1,6 +1,6 @@
 ---
 layout: inner
-position: right
+position: left
 title: 'Customer Analytics'
 date: 2020-12-02 15:56:00
 categories: analytics
