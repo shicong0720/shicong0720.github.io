@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "Hello. I'm Shicong."
 email: 'shicong0720@gmail.com'
-description: "Welcome to where data meets creativity. I'm not just any Data Scientist; I breathe life into numbers, finding the hidden stories and imaginative solutions that can transform your projects and business. "
+description: "Welcome to where data meets creativity. As an AI specialist, I breathe life into numbers, finding the hidden stories and imaginative solutions that can transform your projects and business. "
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://shicong0720.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
 linkedin_username: 'shicong-cao-0bb193128'
