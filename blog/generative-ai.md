@@ -19,10 +19,12 @@ Traditional machine learning models primarily rely on raw data and might be less
 
 ## Enhancing the Competition Phase with LLM
 
-<p float="left">
-  <img src="generative-ai-or.png" width="45%" />
-  <img src="generative-ai-competition.png" width="45%" /> 
-</p>
+<table>
+<tr>
+<td><img src="generative-ai-or.png" alt="Normal Design Process" width="45%"/></td>
+<td><img src="generative-ai-competition.png" alt="Enhanced design process using LLM" width="45%"/></td>
+</tr>
+</table>
 
 The competition phase in architectural design can benefit immensely from LLMs. By leveraging past project data, LLMs can:
 - Assist in drafting competition requirements.
