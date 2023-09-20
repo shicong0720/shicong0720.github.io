@@ -5,6 +5,7 @@ permalink: /blog/generative-ai/
 ---
 # How Large Language Models (LLM) Can Revolutionize Architectural Design and BIM Processes
 
+
 In the realm of architectural design and building information modeling (BIM), the integration of advanced technologies can significantly enhance the accuracy and efficiency of various processes. One such promising technology is the Large Language Model (LLM), which has shown potential in outperforming traditional machine learning models in certain tasks. This article delves into how LLMs can improve the data processes of architectural offices, from the competition phase to data management.
 
 ## LLM vs. Traditional Machine Learning
@@ -18,7 +19,7 @@ Traditional machine learning models primarily rely on raw data and might be less
 
 ## Enhancing the Competition Phase with LLM
 
-![Alt text](generative-ai-competition.png)
+![Alt text](generative-ai-competition.png) ![Alt text](generative-ai-or.png)
 
 The competition phase in architectural design can benefit immensely from LLMs. By leveraging past project data, LLMs can:
 - Assist in drafting competition requirements.
