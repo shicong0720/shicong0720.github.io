@@ -1,6 +1,6 @@
 ---
 layout: inner
-position: left
+position: right
 title: 'Stable Diffusion Finetuning'
 date: 2023-6-20 15:56:00
 categories: research
