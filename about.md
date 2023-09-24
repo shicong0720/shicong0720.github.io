@@ -20,7 +20,7 @@ Shicong’s prowess in generative AI has been pivotal in refining design decisio
 
 ---
 
-## Experience:
+### Experience:
 
 - **Heinlewischer:** Data Scientist / Researcher (April 2021 - Present) - Berlin, Germany
 - **HDR:** Design Coordinator II (July 2018 - April 2021) - San Francisco
@@ -28,7 +28,7 @@ Shicong’s prowess in generative AI has been pivotal in refining design decisio
 
 ---
 
-## Education:
+### Education:
 
 - **Clemson University:** Master of Architecture - MArch, Architecture + Health (2016 - 2018)
 - **Politecnico di Milano:** Master of Science - MS, Architecture (2013 - 2016)
@@ -36,7 +36,7 @@ Shicong’s prowess in generative AI has been pivotal in refining design decisio
 
 ---
 
-## Skills:
+### Skills:
 
 - **Data Analysis:** Proficient in extracting meaningful insights from vast datasets, utilizing statistical and machine learning techniques to drive decision-making processes.
   
@@ -49,5 +49,11 @@ Shicong’s prowess in generative AI has been pivotal in refining design decisio
 - **Architecture:** Comprehensive knowledge in planning, design, and engineering, with a focus on sustainable and innovative architectural solutions.
   
 - **Building Information Modeling (BIM):** Expertise in leveraging BIM tools for efficient architectural design, planning, and construction management.
+
+### Languages
+
+- **English:** Full Professional Proficiency
+- **Chinese:** Native or Bilingual Proficiency
+- **German:** Limited Working Proficiency
 
 ---
