@@ -22,7 +22,7 @@ Shicong’s prowess in generative AI has been pivotal in refining design decisio
 
 ## Experience:
 
-- **Heinle, Wischer und Partner, Freie Architekten:** Data Scientist / Researcher (April 2021 - Present) - Berlin, Germany
+- **Heinlewischer:** Data Scientist / Researcher (April 2021 - Present) - Berlin, Germany
 - **HDR:** Design Coordinator II (July 2018 - April 2021) - San Francisco
 - **Clemson University:** Research Assistant (August 2016 - May 2018) - South Carolina, United States
 
