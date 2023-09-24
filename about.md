@@ -36,6 +36,14 @@ Shicong’s prowess in generative AI has been pivotal in refining design decisio
 
 ---
 
+### Languages
+
+- **English:** Full Professional Proficiency
+- **Chinese:** Native or Bilingual Proficiency
+- **German:** Limited Working Proficiency
+
+---
+
 ### Skills:
 
 - **Data Analysis:** Proficient in extracting meaningful insights from vast datasets, utilizing statistical and machine learning techniques to drive decision-making processes.
@@ -49,11 +57,5 @@ Shicong’s prowess in generative AI has been pivotal in refining design decisio
 - **Architecture:** Comprehensive knowledge in planning, design, and engineering, with a focus on sustainable and innovative architectural solutions.
   
 - **Building Information Modeling (BIM):** Expertise in leveraging BIM tools for efficient architectural design, planning, and construction management.
-
-### Languages
-
-- **English:** Full Professional Proficiency
-- **Chinese:** Native or Bilingual Proficiency
-- **German:** Limited Working Proficiency
 
 ---
