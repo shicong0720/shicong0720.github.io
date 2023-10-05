@@ -22,25 +22,31 @@ Shicong’s prowess in generative AI has been pivotal in refining design decisio
 
 ### Experience:
 
-- **Heinlewischer:** Data Scientist / Researcher (April 2021 - Present) - Berlin, Germany
-- **HDR:** Design Coordinator II (July 2018 - April 2021) - San Francisco
-- **Clemson University:** Research Assistant (August 2016 - May 2018) - South Carolina, United States
+**Heinlewischer:** Data Scientist / Researcher (April 2021 - Present) - Berlin, Germany
+
+**HDR:** Design Coordinator II (July 2018 - April 2021) - San Francisco
+
+**Clemson University:** Research Assistant (August 2016 - May 2018) - South Carolina, United States
 
 ---
 
 ### Education:
 
-- **Clemson University:** Master of Architecture - MArch, Architecture + Health (2016 - 2018)
-- **Politecnico di Milano:** Master of Science - MS, Architecture (2013 - 2016)
-- **Tongji University:** Bachelor of Engineering - BE, Civil Engineering (2009 - 2013)
+**Clemson University:** Master of Architecture - MArch, Architecture + Health (2016 - 2018)
+
+**Politecnico di Milano:** Master of Science - MS, Architecture (2013 - 2016)
+
+**Tongji University:** Bachelor of Engineering - BE, Civil Engineering (2009 - 2013)
 
 ---
 
 ### Languages
 
-- **English:** Full Professional Proficiency
-- **Chinese:** Native or Bilingual Proficiency
-- **German:** Limited Working Proficiency
+**English:** Full Professional Proficiency
+
+**Chinese:** Native or Bilingual Proficiency
+
+**German:** Limited Working Proficiency
 
 ---
 
